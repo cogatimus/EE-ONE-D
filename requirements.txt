@@ -1,0 +1,7 @@
+nltk
+torch
+transformers
+pymilvus
+numpy
+pandas
+sentence-transformers
